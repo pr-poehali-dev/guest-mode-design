@@ -1,7 +1,6 @@
 import Header from "@/components/Header";
 import Sidebar from "@/components/Sidebar";
 import MainContent from "@/components/MainContent";
-import Partners from "@/components/Partners";
 import { useState } from "react";
 
 const Index = () => {
@@ -29,8 +28,6 @@ const Index = () => {
                 Если у вас есть вопросы, не стесняйтесь заказать обратный звонок, и наши специалисты
                 проконсультируют вас по любым вопросам.
               </p>
-              
-              <Partners />
             </div>
           </div>
         </MainContent>
